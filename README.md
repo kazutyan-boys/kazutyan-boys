@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kazutyan-boys
-- 👀 I’m interested in Web
+- 👋 Hi, My Name Is Kazutyan.
+- 👀 I’m interested in Web.
 - 🌱 I’m currently learning Web & Programing.
 
 <!---
